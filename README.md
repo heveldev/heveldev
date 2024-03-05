@@ -1,13 +1,13 @@
 # Hi everyone, I'm Hevel Dev. Welcome to my GitHub profile. 👌
 
 ## 🌐 My social networks :
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hvel.dev)
 <a href="mailto: heveldev24@gmail.com.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 ## 📚 Github Stats :
 <div>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hevel Dev &show_icons=true&theme=blue-green"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hevel Dev &show_icons=true&theme=blue-green"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=heveldev&show_icons=true&theme=blue-green"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heveldev&show_icons=true&theme=blue-green"/>
 </div>
 
 ## Technologies I use in my daily life:
